@@ -1,0 +1,3 @@
+Income,3000,Salary
+Expense,500,Rent
+Expense,100,Groceries
